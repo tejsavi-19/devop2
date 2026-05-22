@@ -1,6 +1,6 @@
 package pro2;
 
-public class devop {
+public class Devop {
 	public static String display(int m)  
 	{  
 	if(m<0 || m>100)  
